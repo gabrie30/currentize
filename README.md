@@ -30,9 +30,6 @@ Currentize.format(1000)
 #=> $1,000
 ```
 
-## Why?
-For fun
+#### Why?
+Just for fun
 
-
-
-# CurrentizeGem
