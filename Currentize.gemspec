@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Transforms numbers into USD specific currency format}
   spec.description   = %q{Transforms numbers into USD specific currency format}
-  spec.homepage      = "www.github.com/gabrie30/CurrentizeGem"
+  spec.homepage      = "https://github.com/gabrie30/CurrentizeGem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
